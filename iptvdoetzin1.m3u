@@ -264,9 +264,9 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: esportes - lifestyle - realities",All Sports | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo"" group-title"ESPORTES",Premiere Link 1
-https://cdn2.embedflix.net/p2p/prfc1/chunks.m3u8?nimblesessionid=316608&wms
+https://cdn2.embedflix.net/p2p/prfc1/chunks.m3u8
 #EXTINF:-1 tvg-logo"" group-title"ESPORTES",Premiere Link 2
-https://cdn2.embedflix.net/p2p/prfc1/chunks.m3u8?nimblesessionid=316608&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDEyOjAwOjI1IEFNJmhhc2hfdmFsdWU9eFgrR29xVEJVMmdndFFMZ1Mvemd5QT09JnZhbGlkbWludXRlcz05MA==
+https://cdn2.embedflix.net/p2p/prfc1/chunks.m3u8?nimblesessionid=392194&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIyIDQ6Mjc6MzMgUE0maGFzaF92YWx1ZT1teG9wcGJNdHVtcmZ1aEJHU2dnVVRBPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-logo"" group-title"ESPORTES",Band Sports Link 1
 https://m3u9.ml/a2/hls1/bandsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4binkS.png" group-title="Brasil: esportes - lifestyle - realities",BraziTV - Amaury Jr
